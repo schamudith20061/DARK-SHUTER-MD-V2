@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
 
 
 module.exports = {
-SESSION_ID: 'put session',
-GITHUB_TOKEN: 'put github token',
+SESSION_ID: 'DARK-SHUTER-MD=bIU0lKpL#1ZXXRSNVFdoCOJ0voEzebuHE7y7KD6H5ONHaqh8Zy60',
+GITHUB_TOKEN: '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',
 
-GITHUB_USER_NAME: 'put your github user name',
+GITHUB_USER_NAME: 'schamudith20061',
 
 };
 
